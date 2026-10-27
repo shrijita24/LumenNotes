@@ -1,2 +1,9 @@
 journal.db
 __pycache__/
+.env
+*.db
+.venv/
+.streamlit/secrets.toml
+.pytest_cache/
+node_modules/
+.next/
